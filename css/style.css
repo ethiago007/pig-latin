@@ -1,0 +1,38 @@
+body {
+  background-image: url(./pexels-pixabay-45170.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(50%) ;
+}
+.heading {
+  text-align: center;
+  font-size: 50px;
+  color: tomato;
+}
+.services {
+  text-align: center;
+  font-size: xx-large;
+  color: tomato;
+}
+.row {
+  margin-left: 100px;
+}
+.wallpaper {
+  margin-top: 200px;
+}
+.nav-item {
+  margin: 60px;
+}
+footer {
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+}
+.dog {
+  text-align: center;
+}
+.about {
+  font-size: large;
+  font-weight: bold;
+}
