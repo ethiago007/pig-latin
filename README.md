@@ -1,9 +1,9 @@
 # SITE NAME
-ADOPTION SITE
+PIG LATIN TRANSLATOR
 # NAME OF CONTRIBUTORS
 MOHAMMED KAMALDEEN
 ## BRIEF DESCRIPTION OF THE PROJECT
-It's a webpage about an adoption website whereby animal lovers can adopt and own their desired pet animals
+It's a webpage that translates normal english to pig latin
 ## TECHNOLOGIES USED
 * HTML
 * CSS
@@ -11,11 +11,11 @@ It's a webpage about an adoption website whereby animal lovers can adopt and own
 * Javascript
 
 ## LONGER DESCRIPTION OF THE PROJECT
-The site contains information about an adoption website which goes by the name "MKOD ANIMAL SERVICES". It offers the services of animal adoptiona and also vet services.
+The site helps a user translates his inputted english word into an imaginary language called pig-latin
 ### KNOWN BUGS
 * NONE
 ## WEBPAGE LINK
- https://ethiago007.github.io/adoption/
+ https://ethiago007.github.io/pig-latin/
 ## CONTACT INFORMATION
 * +2349064252791 (calls and WhatsApp)
 * mohammedkamaldeen204@gmail.com
